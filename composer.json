@@ -13,7 +13,7 @@
     "require-dev":{},
     "require":{
         "phpunit/phpunit":"^9.5",
-        "prestashop/prestashop-webservice-lib":"dev-master"
+        "prestashop/prestashop-webservice-lib":"1.0"
     },
     "autoload": {
         "psr-4": {
