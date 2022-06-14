@@ -1,5 +1,5 @@
 {
-    "name": "ollywarren/prestashop-laravel",
+    "name": "ollywarren/prestashop",
     "description": "Provide a simple elegant wrapper around the Prestashop APi Library from Prestashop.",
     "keywords": ["Laravel", "Prestashop"],
     "homepage": "http://github.com/ollywarren/prestashop",
